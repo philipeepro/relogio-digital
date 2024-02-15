@@ -11,7 +11,7 @@ def tac():
 
 j = Tk()
 
-rel = Label(j, font='arial 1')
+rel = Label(j, font='arial 90')
 rel.pack()
 tac()
 
